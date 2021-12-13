@@ -8,7 +8,7 @@
 
 Skills: ReactJS, Redux, ES6, GraphQL, NodeJS, MongoDB,PostGres 
 
-- 🌱 I’m currently learning-React & Full Stack Web Development. 
+- 🌱 Know-React & Full Stack Web Development. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yocarl)  
