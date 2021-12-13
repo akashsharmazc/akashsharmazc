@@ -6,7 +6,7 @@
 ### Hi there 👋, my name is Akash.
 #### I am an Aspiring Full Stack Web Developer.
 
-Skills: ReactJS, Redux, ES6, GraphQL, NodeJS, MongoDB 
+Skills: ReactJS, Redux, ES6, GraphQL, NodeJS, MongoDB,PostGres 
 
 - 🌱 I’m currently learning-React & Full Stack Web Development. 
 
